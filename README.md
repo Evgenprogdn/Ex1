@@ -1,2 +1,2 @@
 # Ex1
-Just try mu code.
+Just try mi code.
